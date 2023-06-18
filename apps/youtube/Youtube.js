@@ -1,4 +1,4 @@
-const Castv2Client = require('castv2-client')
+const Castv2Client = require('@suni29/castv2-client')
 const Application = Castv2Client.Application
 const MediaController = Castv2Client.MediaController
 const YoutubeController = require('./YoutubeController')

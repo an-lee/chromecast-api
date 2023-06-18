@@ -7,7 +7,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "castv2-client": "1.2.0",
+    "@suni29/castv2-client": "https://github.com/Suni29/node-castv2-client",
     "debug": "^4.1.1",
     "dns-txt": "^2.0.2",
     "mime": "^3.0.0",

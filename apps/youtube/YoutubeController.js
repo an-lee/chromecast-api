@@ -1,4 +1,4 @@
-const Castv2Client = require('castv2-client')
+const Castv2Client = require('@suni29/castv2-client')
 const RequestResponseController = Castv2Client.RequestResponseController
 const YoutubeRemote = require('youtube-remote')
 

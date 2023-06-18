@@ -1,6 +1,6 @@
 const mime = require('mime')
 
-const DefaultMediaReceiver = require('castv2-client').DefaultMediaReceiver
+const DefaultMediaReceiver = require('@suni29/castv2-client').DefaultMediaReceiver
 
 class DefaultMediaReceiverApp extends DefaultMediaReceiver {
   load (resource, opts, callback) {
